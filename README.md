@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+--> 
 
 
 # Hi there, I'm RiossDev 👋
@@ -32,7 +32,7 @@ I work as a **Fullstack Developer** at *Centro Comercial Sandiego*, where I help
 ```js
 const RiossDev = {
   code: [ "JavaScript", "HTML", "CSS", "SQL", "Python", "C++", "TypeScript" ],
-  tools: [ "React", "Node", "aws" ],
+  tools: [ "React", "Node", "AWS" ],
   id: "VSCode",
   projects: [
     {
